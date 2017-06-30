@@ -1,0 +1,25 @@
+{
+  "name": "@gzzhanghao/babel-require",
+  "version": "0.1.0",
+  "main": "lib",
+  "scripts": {
+    "build": "babel src -d lib",
+    "watch": "babel src -d lib --watch"
+  },
+  "author": "Jason",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.5.2"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gzzhanghao/babel-require.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gzzhanghao/babel-require/issues"
+  },
+  "homepage": "https://github.com/gzzhanghao/babel-require#readme",
+  "description": ""
+}
